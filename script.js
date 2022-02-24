@@ -2,7 +2,7 @@ const ejercicio1 = [
   3, 100, 85, 64, 46, 39, 40, 30, 20, 24, 25, 6, 10, 54, 82, 71, 67, 77, 17, 29,
   19, 88, 456, 13, 23, 24,
 ];
-//Resolucion
+//Resolucion Ej1
 function primo (a) {
     if (a <= 1) {
         return false
@@ -59,7 +59,7 @@ const ejercicio2 = [
     esFamiliar: true,
   },
 ];
-//Resolucion
+//Resolucion Ej2
 let invitados = []
 
 for (let i = 0; i < ejercicio2.length; i++) {
